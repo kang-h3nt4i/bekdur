@@ -1,3 +1,1 @@
-<FilesMatch "^(php)$">
-Allow from All
-</FilesMatch>
+0

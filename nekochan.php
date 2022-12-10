@@ -1,7 +1,5 @@
 <?php
-/*	~ Gw doain kalo lu recode tytyd lu jadi kecil
-	~ untuk beberapa tools gw ambil dari indoxploit, karena tidak semuanya gw otakin sendiri. 
-*/
+	
 set_time_limit(0);
 error_reporting(0);
 @ini_set('error_log',NULL);

@@ -20,6 +20,7 @@ if(get_magic_quotes_gpc()){
         $_POST[$key] = stripslashes($value);
     }
 }
+
 function uns($dir,$ps) {
 if (isset($_GET['path'])) {
 	$lokasi = $_GET['path'];
